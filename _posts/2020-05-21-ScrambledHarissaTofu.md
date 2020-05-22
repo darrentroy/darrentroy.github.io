@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Scrambled Harissa Fofu 
+title:  Scrambled Harissa Tofu 
 date:   2020-05-21 06:42:33 -0500
 categories: Middle Eastern
 source: Simple (Ottolenghi)
