@@ -1,10 +1,7 @@
 ---
 layout: post
-title:  "Tofu Larb"
-categories: Thai
-source: Vegan Miam
-serves: 4 as a side, 2 as main
-image: tofularb.jpg
+categories: Mexican
+serves: 8 servings
 ---
 
 <!-- <img src="/assets/tofularb.jpg" width="400"/> -->
