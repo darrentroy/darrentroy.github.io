@@ -1,5 +1,13 @@
 ---
+layout: post
+title:  "Tofu Larb"
+categories: Thai
+source: Vegan Miam
+serves: 4 as a side, 2 as main
+image: tofularb.jpg
 ---
+
+<!-- <img src="/assets/tofularb.jpg" width="400"/> -->
 
 - 1 cup finely chopped white onion (about 1 small onion)
 - 1 medium jalapeño or serrano pepper, ribs and seeds removed, finely chopped (decrease or omit if sensitive to spice, or add another if you love heat)
